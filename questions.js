@@ -7,7 +7,7 @@ const QUIZ_QUESTIONS = [
     title: "Gerbang Pengetahuan I",
     npcName: "Penjaga Gerbang Figma",
     story: "Salam petualang! Untuk melewati gerbang ini, buktikan ketajaman pikiranmu!",
-    question: "Perhatikan pernyataan berikut: "Fokus utamanya adalah menyusun kerangka, tata letak, dan alur halaman secara sederhana tanpa memikirkan warna maupun detail visual." Karakteristik tersebut merupakan tahapan perancangan...",
+    question: "Perhatikan pernyataan berikut: Fokus utamanya adalah menyusun kerangka, tata letak, dan alur halaman secara sederhana tanpa memikirkan warna maupun detail visual. Karakteristik tersebut merupakan tahapan perancangan...",
     options: ["High-Fidelity", "Low-Fidelity", "Auto Layout", "Interactive Components"],
     correctIndex: 1,
     explanation: "Ingat kalau membangung rumah tahap perancangan sama dengan tahap Low-Fidelity",
