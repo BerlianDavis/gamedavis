@@ -1,5 +1,5 @@
 /* =========================================================
-   ELDORIA QUEST — Leaderboard Module
+   Belajar Figma — Leaderboard Module
    - Selalu menyimpan skor secara LOKAL (localStorage) supaya
      tetap bekerja walau tanpa server / offline.
    - Jika window.LEADERBOARD_API_URL diisi (lihat README.md),
