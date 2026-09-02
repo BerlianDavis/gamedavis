@@ -1,5 +1,5 @@
 // =========================================================
-// KONFIGURASI ELDORIA QUEST
+// KONFIGURASI Belajar Figma
 // =========================================================
 // Leaderboard global memakai Vercel KV lewat endpoint bawaan
 // di /api/scores (lihat file api/scores.js). Kalau situs ini
