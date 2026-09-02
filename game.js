@@ -1,5 +1,5 @@
 /* =========================================================
-   ELDORIA QUEST - RPG CORE GAME ENGINE
+   Belajar Figma - RPG CORE GAME ENGINE
    Features:
    - Login Screen (Nama Pemain)
    - 2D Platformer / Side-scroller Physics
@@ -1239,7 +1239,7 @@
 
       playerName = name;
       playerDisplay.innerText = playerName;
-      document.title = 'Eldoria Quest – ' + playerName;
+      document.title = 'Belajar Figma – ' + playerName;
 
       // Animasi fade-out login
       loginScreen.style.transition = 'opacity 0.45s ease, transform 0.45s ease';
