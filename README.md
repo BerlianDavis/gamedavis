@@ -1,4 +1,4 @@
-# Eldoria Quest — RPG Kuis Petualangan
+# Belajar Figma — RPG Kuis Petualangan
 
 ## Ringkasan fitur
 
