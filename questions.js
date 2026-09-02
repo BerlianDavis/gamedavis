@@ -31,8 +31,7 @@ const QUIZ_QUESTIONS = [
     title: "Pustaka Pohon Ajaib",
     npcName: "Kakek Pohon Bijak",
     story: "Hohoho... petualang muda yang bersemangat. Ujilah ingatanmu!",
-    question: "Shortcut keyboard yang digunakan untuk mengaktifkan fitur Auto Layout pada sebuah elemen di Figma adalah...
-",
+    question: "Shortcut keyboard yang digunakan untuk mengaktifkan fitur Auto Layout pada sebuah elemen di Figma adalah...",
     options: ["Ctrl + G", "CTRL + A + K", "Shift + A", "Alt + Drag"],
     correctIndex: 2,
     explanation: "Kakek punya ilmu, jadi ingat ya kalau kepanjangan dari A adalah Auto",
