@@ -1,5 +1,5 @@
 // =========================================================
-// ELDORIA QUEST — Preset Karakter Siswa SMA
+// Belajar Figma — Preset Karakter Siswa SMA
 // Karakter TIDAK lagi memakai file gambar sama sekali.
 // Semua digambar langsung lewat kode (canvas gradient shading
 // supaya terlihat "3D") memakai seragam SMA putih-abu +
