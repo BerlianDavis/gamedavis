@@ -2,7 +2,7 @@
   "name": "eldoria-quest",
   "version": "1.0.0",
   "private": true,
-  "description": "Eldoria Quest — RPG Kuis Petualangan, dengan leaderboard global via Vercel KV",
+  "description": "Belajar Figma — RPG Kuis Petualangan, dengan leaderboard global via Vercel KV",
   "dependencies": {
     "@vercel/kv": "^2.0.0"
   }
